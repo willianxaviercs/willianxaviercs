@@ -1,4 +1,4 @@
-I'm Willian, a software developer based in Brazil.
+I'm [Willian](https://linkedin.com/in/willian-xavier-a9162323a), a software developer based in Brazil.
 
 Here you will find some of my low level programming projects.
 
