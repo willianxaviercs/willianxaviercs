@@ -9,5 +9,3 @@ Low-level programming experiments in C/C++:
 - device input and hardware interfaces
 - simple games
 - parsers
-
-LinkedIn: https://linkedin.com/in/willian-xavier-a9162323a
