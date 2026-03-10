@@ -1,16 +1,50 @@
-## Hi there 👋
+# Willian Xavier
 
-<!--
-**willianxaviercs/willianxaviercs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C/C++ developer focused on systems programming, low-level software and performance.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems programming
+- Embedded systems
+- Operating systems
+- Performance-aware software
+- Hardware interaction
+- Deterministic systems
+
+## Current Focus
+
+- C and C++ systems development
+- Linux internals
+- Timing and scheduling
+- Performance engineering
+
+## Projects
+
+I maintain a repository dedicated to low-level programming experiments:
+
+**low-level**
+
+Topics explored include:
+
+- embedded-style event loops
+- Linux device drivers
+- raw input and hardware interaction
+- timing precision and scheduler behavior
+
+## Background
+
+Software developer with professional experience building production systems and working with performance-sensitive environments.
+
+Currently deepening knowledge in low-level software, CPU architecture and performance-aware programming.
+
+## Learning
+
+- Computer architecture
+- Performance engineering
+- Embedded systems
+- Operating systems internals
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/willian-xavier-a9162323a
